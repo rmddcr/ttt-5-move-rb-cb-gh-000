@@ -9,8 +9,7 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(argument)
-
-
+  argument=to_i(argument)
 end
 
 def move(argument)
