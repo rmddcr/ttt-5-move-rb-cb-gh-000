@@ -9,8 +9,12 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(argument)
-  argument=to_i(argument)
+  index=to_i(argument)-1
+  arrray=[" "," "," "," "," "," "," "," "," ",]
+  array[index]="x"
 end
+
+
 
 def move(argument)
 
