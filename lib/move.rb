@@ -10,7 +10,7 @@ end
 
 def input_to_index(argument)
   index=argument.to_i-1
-  
+
   # arrray=[" "," "," "," "," "," "," "," "," ",]
   # array[index]="x"
 end
