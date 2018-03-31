@@ -17,7 +17,8 @@ end
 
 
 
-def move(argument)
+def move(board,index,symbol)
+  board[index]=symbol
 
 
 end
